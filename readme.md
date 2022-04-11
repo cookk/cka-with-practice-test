@@ -1,3 +1,9 @@
+# References
+- https://www.cncf.io/certification/cka/
+- https://github.com/cncf/curriculum
+- https://www.cncf.io/certification/candidate-handbook
+- http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
+# Summary
 ## Core Concepts
 ### Cluster Architecture
 ### API Primitives
